@@ -24,4 +24,4 @@ function luadeluxe:GenerateMeter(len,sides,insidefull,insideempty,val,max)
       error("Wrong Value Types!")
       end
   end
-print(luadeluxe:GenerateMeter(10,{"[","]"},{"X","O"},{"|","-"},50,100))
+--print(luadeluxe:GenerateMeter(10,{"[","]"},{"X","O"},{"|","-"},50,100))
